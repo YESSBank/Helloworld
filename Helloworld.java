@@ -1,4 +1,5 @@
-class Helloworld{
-  public static void main{
-    System.out.println("hi")
-    }}
+class Helloworld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World Divya!");
+    }
+}
